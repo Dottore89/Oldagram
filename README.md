@@ -1,0 +1,1 @@
+This is the main layout of an Instagram clone. It is built using vanilla CSS, and is utilizing Flexbox, CSS Grid, and CSS Variables. It was built as a part of Scrimba's Frontend Developer Career Path.
